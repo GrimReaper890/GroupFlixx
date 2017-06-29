@@ -36,7 +36,7 @@ try {
 const PORT = process.env.PORT || 8445;
 
 // Wit.ai parameters
-const WIT_TOKEN = process.env.WIT_TOKEN || "5954ed24-753a-45af-9814-57d2cea55ef2";
+const WIT_TOKEN = process.env.WIT_TOKEN || "XBAON6PQPS6PDAW55DIT7UJPAIPKIOJU";
 
 // Messenger API parameters
 const FB_PAGE_TOKEN = process.env.FB_PAGE_TOKEN || "EAAGForZBCDjUBAJZAtJbslXv0RlVGl1V8jT5saofh47ZCV2DqUOZBaeZAQbZBl7p3a8YKLbb9kKpTmxg5ZAw4gjkXn9aZBA3UhQuAUPcDCnVEYbXQaO7Ax6RnKDo6doXp47UN7rO6KrKjhgC7zXnAaldXO0J11s9CiS32MCV5uM5lQZDZD";
